@@ -11,11 +11,9 @@ This project explores what factors drive a football player's market value and bu
 - **Target variable:** `value_eur` (market value in Euros)
 
 ## Tools & Libraries
-- **Python 3**
-- **pandas, NumPy** — data manipulation
-- **matplotlib, seaborn** — data visualization
-- **scikit-learn** — machine learning (Linear Regression, Random Forest)
-- **Jupyter Notebook**
+- **pandas, NumPy** for data manipulation
+- **matplotlib, seaborn** for data visualization
+- **scikit-learn** for machine learning (Linear Regression, Random Forest)
 
 ## Key Findings
 - Overall rating and wage are the strongest predictors of player value
@@ -26,36 +24,14 @@ This project explores what factors drive a football player's market value and bu
 ## Project Structure
 ```
 FIFA-Player-Value-Predictor/
-├── data/                                        # Raw dataset (gitignored)
+├── data/                                        
 ├── notebooks/
-│   └── FIFA_Player_Value_Predictor.ipynb        # Main analysis notebook
-├── visuals/                                     # Generated charts
+│   └── FIFA_Player_Value_Predictor.ipynb        
+├── visuals/                                     
 ├── requirements.txt
 ├── .gitignore
 └── README.md
 ```
-
-## How to Run
-1. Download the dataset from Kaggle and place `players.csv` in the `data/` folder
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Launch Jupyter and run the notebook:
-```bash
-jupyter notebook notebooks/FIFA_Player_Value_Predictor.ipynb
-```
-4. Run all cells top to bottom
-
-##  Sample Visualizations
-Charts generated in this project include:
-- Top 10 most valuable players
-- Age distribution
-- Overall rating vs market value
-- Top 10 leagues by average player value
-- Feature correlation heatmap
-- Feature importance (Random Forest)
-- Predicted vs actual values
 
 ## 👤 Author
 **Neel Mendapara**  
