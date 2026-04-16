@@ -36,7 +36,7 @@ FIFA-Player-Value-Predictor/
 ## 👤 Author
 **Neel Mendapara**  
 Data Analytics Student, Fanshawe College  
-[GitHub](https://github.com/neelacademy10-crypto) | [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
+[GitHub](https://github.com/neelacademy10-crypto) | [LinkedIn](https://www.linkedin.com/in/neel-mendapara-77b15a218/)
 
 ---
 ⭐ If you found this project helpful, consider giving it a star!
